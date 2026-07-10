@@ -1,48 +1,53 @@
-# FlyRank-Capstone
+# FlyRank Capstone
 
-## Overview
+Capstone repository for the FlyRank Frontend AI Engineering Internship. This project is being developed incrementally to apply modern frontend practices, AI-assisted workflows, and professional Git collaboration.
 
-This repository contains my capstone project for the FlyRank Frontend AI Engineering Internship. It serves as the foundation for building, documenting, and managing my project while following industry-standard development practices.
+## Current status
 
-## Objectives
+The repository is currently in its setup phase. Application features, setup instructions, and deployment details will be added as they are implemented.
 
-* Set up a professional development environment.
-* Learn and apply AI-assisted software development workflows.
-* Practice Git version control using Conventional Commits.
-* Build and maintain a frontend project using modern web technologies.
+## Goals
 
-## Tech Stack
+- Build a maintainable frontend project with modern web technologies.
+- Practice AI-assisted development, documentation, and code-review workflows.
+- Use Git and GitHub confidently with Conventional Commit messages.
+- Keep the codebase clean, readable, and easy to extend.
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Node.js
-* Git
-* GitHub
-* VS Code
-* Claude Code (planned AI assistant)
+## Planned technology
 
-## Project Structure
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Node.js
+- Git and GitHub
+- Visual Studio Code
+
+## Getting started
+
+No application dependencies or runnable source files have been added yet. Once implementation begins, this section will include the required installation and development commands.
+
+## Repository structure
 
 ```text
-flyRank-capstone/
-├── README.md
-├── LICENSE
-├── .gitignore
-└── CLAUDE.md
+FlyRank-Capstone/
+├── README.md       # Project documentation
+├── LICENSE         # MIT License
+├── .gitignore      # Git ignore rules
+├── CLAUDE.md       # Project conventions for AI-assisted work
+└── package-lock.json
 ```
 
-## Development Workflow
+## Development guidelines
 
-* Use Git for version control.
-* Follow the Conventional Commits specification for commit messages.
-* Write clean, readable, and maintainable code.
-* Use AI tools to assist with development, documentation, and code review where available.
-
-## Repository Status
-
-This repository is currently in the initial setup phase and will be updated throughout the FlyRank Frontend AI Engineering Internship as new milestones and features are completed.
+- Write clear, accessible, and maintainable code.
+- Use descriptive names and keep solutions simple.
+- Follow the Conventional Commits specification for commit messages.
+- Update this README when new features, commands, or deployment steps are introduced.
 
 ## Author
 
-**Faith Ifeoma**
+Faith Ifeoma
+
+## License
+
+Distributed under the [MIT License](LICENSE).
